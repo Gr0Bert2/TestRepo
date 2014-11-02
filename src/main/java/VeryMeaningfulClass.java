@@ -7,7 +7,8 @@ public class VeryMeaningfulClass {
 
     public VeryMeaningfulClass(final int a, final int b) {
         this.a = a;
-        this.b = b;
+        thi
+        s.b = b;
     }
 
     public int getSum() {
