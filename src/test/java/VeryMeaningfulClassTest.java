@@ -19,6 +19,7 @@ public class VeryMeaningfulClassTest {
         //some changes
         //asdasd
         //asdasdasd
+        //sacascasc
         Assert.assertEquals(veryMeaningfulClass.getSum(), 10);
     }
 }
