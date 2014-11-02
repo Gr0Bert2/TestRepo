@@ -16,6 +16,7 @@ public class VeryMeaningfulClassTest {
 
     @Test
     public void getSumTest() {
+        //some changes
         Assert.assertEquals(veryMeaningfulClass.getSum(), 10);
     }
 }
