@@ -20,6 +20,6 @@ public class VeryMeaningfulClassTest {
         //asdsdsdc
         //changes to fork
         //one more changes to fork jklkjlk
-        Assert.assertEquals(veryMeaningfulClass.getSum(), 10);
+        Assert.assertEquals(veryMeaningfulClass.getSum(), 8);
     }
 }
