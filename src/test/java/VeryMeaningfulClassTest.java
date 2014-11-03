@@ -21,6 +21,7 @@ public class VeryMeaningfulClassTest {
         //changes to fork
         //one more changes to fork jklkjlk
         //and one more
+        //asdasdasd
         Assert.assertEquals(veryMeaningfulClass.getSum(), 8);
     }
 }
