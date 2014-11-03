@@ -16,12 +16,8 @@ public class VeryMeaningfulClassTest {
 
     @Test
     public void getSumTest() {
-        //some changes
-        //asdsdsdc
-        //changes to fork
-        //one more changes to fork jklkjlk
+        //some chan
         //and one more
-        //asdasdasd
         Assert.assertEquals(veryMeaningfulClass.getSum(), 8);
     }
 }
